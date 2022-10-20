@@ -4,6 +4,7 @@
     "keywords": ["freecodecamp", "software developer", "designer"],
     "description": "This project is going to change the world.",
     "license": "MIT",
+    "version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
